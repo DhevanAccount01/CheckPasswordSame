@@ -1,4 +1,4 @@
-//js for password similar
+//js for password same
 
 $valid = "0";
 $page = "login.php";
