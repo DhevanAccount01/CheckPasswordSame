@@ -1,4 +1,4 @@
-
+//db to check passoword similar
 
 function checkPasswordSimilar($password)
 {
